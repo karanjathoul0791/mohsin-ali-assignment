@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mohsin-ali-assignment/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/mohsin-ali-assignment/static/js/main.de15ce0b.chunk.js",
+    "main.js.map": "/mohsin-ali-assignment/static/js/main.de15ce0b.chunk.js.map",
+    "runtime-main.js": "/mohsin-ali-assignment/static/js/runtime-main.e9089704.js",
+    "runtime-main.js.map": "/mohsin-ali-assignment/static/js/runtime-main.e9089704.js.map",
+    "static/js/2.613758a6.chunk.js": "/mohsin-ali-assignment/static/js/2.613758a6.chunk.js",
+    "static/js/2.613758a6.chunk.js.map": "/mohsin-ali-assignment/static/js/2.613758a6.chunk.js.map",
+    "static/js/3.3425781a.chunk.js": "/mohsin-ali-assignment/static/js/3.3425781a.chunk.js",
+    "static/js/3.3425781a.chunk.js.map": "/mohsin-ali-assignment/static/js/3.3425781a.chunk.js.map",
+    "index.html": "/mohsin-ali-assignment/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/mohsin-ali-assignment/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.613758a6.chunk.js.LICENSE.txt": "/mohsin-ali-assignment/static/js/2.613758a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9089704.js",
+    "static/js/2.613758a6.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.de15ce0b.chunk.js"
+  ]
+}
